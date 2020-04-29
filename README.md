@@ -1,10 +1,6 @@
 # README
 ## how to use GitHub Desktop
-<<<<<<< Updated upstream
 
-=======
-## how to use git revert
->>>>>>> Stashed changes
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
